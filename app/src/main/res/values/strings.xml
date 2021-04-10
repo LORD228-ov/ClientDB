@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lesson17Client</string>
+    <string name="welcome">Добро Пожаловать</string>
+    <string name="description">Зарегистрируйтесь, или войдите в аккаунт</string>
+    <string name="login">Логин</string>
+    <string name="enter_login_here">Введите логин сюда</string>
+    <string name="password">Пароль</string>
+    <string name="enter_password_here">Введите пароль сюда</string>
+    <string name="register">Зарегистрироваться</string>
+    <string name="sign_in">Войти</string>
+    <string name="forgot_password">Забыли пароль?</string>
+</resources>
